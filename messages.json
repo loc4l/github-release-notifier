@@ -1,0 +1,7 @@
+{
+  "error_fetching_release": "❌ Error fetching release data: {status_code}",
+  "no_new_release": "🤷 No new release found.",
+  "new_release_message": "📢 New release detected for {repo}: {new_release_tag} (previous was {old_release_tag})",
+  "error_sending_telegram": "❌ Error sending Telegram message: {status_code}, {response_text}",
+  "no_previous_release": "none"
+}
